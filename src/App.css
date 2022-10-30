@@ -9,6 +9,7 @@ nav {
   min-height: 10vh;
   background: rgb(73, 79, 82);
   color: white;
+  text-decoration: none;
 }
 
 .nav-links {
@@ -17,4 +18,15 @@ nav {
   justify-content: space-around;
   align-items: center;
   list-style: none;
+  text-decoration: none;
+}
+
+.nav-links a:link {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-links a:visited {
+  color: white;
+  text-decoration: none;
 }
