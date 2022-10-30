@@ -4,7 +4,7 @@ import Nav from "./nav";
 import About from "./about";
 import Shop from "./shop";
 import Faq from "./faq";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
